@@ -1,0 +1,4 @@
+Se instala firebase 
+Se instala material
+Se instala coreUI
+    - npm install @coreui/angular
